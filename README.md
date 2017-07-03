@@ -1,10 +1,10 @@
 ## Webpack 3 Project Starter (JS)
 
-Although all the front-end frameworks that i use on regular base mainly Angular2, ReactJS, Vuejs come with rather a powerful
-CLI tool that makes the process of starting new project pretty easy, i find myself scaffolding new webpack project
+Although all the front-end frameworks that i use on regular base mainly Angular2, ReactJS, Vuejs comes with rather a powerful
+CLI tool that makes the process of creating new project pretty easy,  nevertheless, i find myself scaffolding new webpack project
 whether it is to test quick idea, or to show friend or co-worker something.
 
-Of course i could just create plain HTML file and write everything there, but i like to take advantage of everything webpack offers, from being able to use es6  features to other features  like hot reload with webpack dev server and  sass
+Of course i could just create plain HTML file and write everything there, but i like to take advantage of everything webpack offers, from being able to use es6  features to other features  like hot reload with webpack dev server and  sass processing
 
 ### What is included (dependencies)
 * [Webpack 3](https://github.com/webpack/webpack)
@@ -18,9 +18,12 @@ Of course i could just create plain HTML file and write everything there, but i 
 
 
 ### How to use it
-1. Clone the package and go into that directory ( `cd webpacke-3-starter`)
+1. Clone the repository and go into the directory  where you cloned the repository ( e.g. `cd webpacke-3-starter`)
 * `npm` or `yarn` `install`
-* `npm` or `yarn` `run dev`  - open browser and live reloads as you change files
+* `npm` or `yarn` `run dev`  - will launch your default browser `http://localhost:8080` and live reload is enabled as you change  source files
 * `npm` or `yarn` `run prod` - will bundle everything move move into dist (all minified)
+
+If you have question feel free to reach out to me.
+~happy coding
 
 
